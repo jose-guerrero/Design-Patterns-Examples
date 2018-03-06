@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/bin/Debug/netcoreapp2.0/Singleton_Design_Pattern.deps.json
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/bin/Debug/netcoreapp2.0/Singleton_Design_Pattern.runtimeconfig.json
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/bin/Debug/netcoreapp2.0/Singleton_Design_Pattern.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/bin/Debug/netcoreapp2.0/Singleton_Design_Pattern.dll
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/bin/Debug/netcoreapp2.0/Singleton_Design_Pattern.pdb
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/obj/Debug/netcoreapp2.0/Singleton_Design_Pattern.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/obj/Debug/netcoreapp2.0/Singleton_Design_Pattern.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/obj/Debug/netcoreapp2.0/Singleton_Design_Pattern.AssemblyInfo.cs
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/obj/Debug/netcoreapp2.0/Singleton_Design_Pattern.dll
+/Users/joseguerrero/Projects/design_patterns/Singleton_Design_Pattern/obj/Debug/netcoreapp2.0/Singleton_Design_Pattern.pdb
