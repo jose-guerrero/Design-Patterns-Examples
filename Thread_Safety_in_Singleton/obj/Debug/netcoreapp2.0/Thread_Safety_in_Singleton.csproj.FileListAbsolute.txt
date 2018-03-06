@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/bin/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.deps.json
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/bin/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.runtimeconfig.json
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/bin/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/bin/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.dll
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/bin/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.pdb
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/obj/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/obj/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/obj/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.AssemblyInfo.cs
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/obj/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.dll
+/Users/joseguerrero/Projects/design_patterns/Thread_Safety_in_Singleton/obj/Debug/netcoreapp2.0/Thread_Safety_in_Singleton.pdb
