@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/bin/Debug/netcoreapp2.0/Factory_Pattern.deps.json
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/bin/Debug/netcoreapp2.0/Factory_Pattern.runtimeconfig.json
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/bin/Debug/netcoreapp2.0/Factory_Pattern.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/bin/Debug/netcoreapp2.0/Factory_Pattern.dll
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/bin/Debug/netcoreapp2.0/Factory_Pattern.pdb
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/obj/Debug/netcoreapp2.0/Factory_Pattern.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/obj/Debug/netcoreapp2.0/Factory_Pattern.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/obj/Debug/netcoreapp2.0/Factory_Pattern.AssemblyInfo.cs
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/obj/Debug/netcoreapp2.0/Factory_Pattern.dll
+/Users/joseguerrero/Projects/design_patterns/Factory_Pattern/obj/Debug/netcoreapp2.0/Factory_Pattern.pdb
