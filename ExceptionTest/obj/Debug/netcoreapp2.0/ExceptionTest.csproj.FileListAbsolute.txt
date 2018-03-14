@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/bin/Debug/netcoreapp2.0/ExceptionTest.deps.json
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/bin/Debug/netcoreapp2.0/ExceptionTest.runtimeconfig.json
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/bin/Debug/netcoreapp2.0/ExceptionTest.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/bin/Debug/netcoreapp2.0/ExceptionTest.dll
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/bin/Debug/netcoreapp2.0/ExceptionTest.pdb
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/obj/Debug/netcoreapp2.0/ExceptionTest.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/obj/Debug/netcoreapp2.0/ExceptionTest.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/obj/Debug/netcoreapp2.0/ExceptionTest.AssemblyInfo.cs
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/obj/Debug/netcoreapp2.0/ExceptionTest.dll
+/Users/joseguerrero/Projects/design_patterns/ExceptionTest/obj/Debug/netcoreapp2.0/ExceptionTest.pdb
