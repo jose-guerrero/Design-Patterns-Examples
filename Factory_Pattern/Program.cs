@@ -5,7 +5,7 @@ namespace Factory_Pattern
  
     class Program
     {
-        abstract class Position
+        abstract class Position /// An abstract class is a special type of class that cannot be instantiated.
         {
             public abstract string Title {get;}
         }
